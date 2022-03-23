@@ -1,6 +1,6 @@
-################################
+
 #  This is a basic calculator  #
-################################
+
 
 - 👋 Hi, I’m @BrendanPotts
 - 👀 I’m interested in game dev and full stack.
